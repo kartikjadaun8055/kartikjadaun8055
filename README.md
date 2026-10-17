@@ -1,56 +1,81 @@
- <!-- ANIMATED LUXURY HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,50:301060,100:6D28D9&height=220&section=header&text=KARTIK%20JADAUN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK&descAlignY=58&descSize=16" width="100%" />
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+%7C+Data+Structures+%26+Algorithms;Building+Modern+Web+Experiences;Always+Learning.+Always+Building." alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Exploring+Machine+Learning;Java+DSA+%7C+Problem+Solving;Building+Modern+Web+Experiences" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CODE-Java%20%7C%20JavaScript-00B8D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-08080C?style=for-the-badge&logo=github" />
+  <a href="https://apankart-8b338.web.app/">
+    <img src="https://img.shields.io/badge/LIVE%20PROJECT-ApnaKart-6D28D9?style=for-the-badge&logo=firebase&logoColor=white" />
+  </a>
+  <a href="mailto:kartikjadon9068@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-00B8D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## ◈ ABOUT ME
 
-- 💻 Full Stack Developer focused on the MERN ecosystem.
-- ⚡ Building responsive web applications and REST APIs.
+- 💻 Full Stack Web Developer focused on the MERN stack.
+- 🎨 Interested in premium UI/UX, responsive design, and smooth interactions.
+- ⚙️ Building backend APIs, authentication systems, and database-driven applications.
 - 🧠 Practicing Data Structures & Algorithms using Java.
-- 🚀 Exploring authentication, databases, and backend architecture.
+- 🤖 Exploring Python and Machine Learning.
 - 🎯 Aspiring Software Engineer.
 
 ---
 
 ## ◈ TECH ARSENAL
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode&theme=dark&perline=6" alt="Technology stack icons" />
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Bootstrap and Tailwind CSS" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:00E5FF&height=3&section=header" width="75%" />
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express.js, MongoDB and MySQL" />
 </p>
+
+### Programming, Machine Learning & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,postman&theme=dark" alt="Java, Python, Git, GitHub, VS Code and Postman" />
+</p>
+
+**Additional interests:** REST APIs · JWT Authentication · Mongoose · Responsive Web Design · API Testing
 
 ---
 
 ## ◈ FEATURED PROJECT
 
-### 🛒 ApnaKart — E-Commerce Application
+### 🛒 ApnaKart — E-Commerce Web Application
 
-A full-stack e-commerce project focused on product management, authentication, and backend API development.
+<p align="center">
+  <a href="https://apankart-8b338.web.app/">
+    <img src="https://img.shields.io/badge/EXPLORE%20LIVE%20WEBSITE-00E5FF?style=for-the-badge&logo=firebase&logoColor=08080C" />
+  </a>
+</p>
 
-- REST APIs with Node.js and Express.js
-- MongoDB database integration using Mongoose
-- JWT authentication and password hashing
-- Product management and image-upload integration
-- Backend debugging and API testing
+A full-stack e-commerce project focused on online shopping experiences, product management, and backend API development.
 
-**Stack:** React.js · Node.js · Express.js · MongoDB · JWT · Cloudinary
+- 🛍️ E-commerce user interface and product browsing
+- 🔐 User authentication with JWT and password hashing
+- 🗄️ MongoDB database integration using Mongoose
+- ⚙️ REST API development with Node.js and Express.js
+- 🖼️ Product image upload integration
+- 🧪 API testing and backend debugging
+
+**Technologies:** React.js · Node.js · Express.js · MongoDB · JWT · Cloudinary
+
+<p align="center">
+  <i>Explore ApnaKart and experience the live application.</i>
+</p>
 
 ---
 
@@ -58,9 +83,9 @@ A full-stack e-commerce project focused on product management, authentication, a
 
 - Java and Data Structures & Algorithms
 - Advanced React.js and frontend architecture
-- REST API design and backend development
-- Database management and optimization
-- Software engineering interview fundamentals
+- Backend development and REST API design
+- Python and Machine Learning fundamentals
+- Database management and software engineering concepts
 
 ---
 
@@ -88,8 +113,14 @@ A full-stack e-commerce project focused on product management, authentication, a
 ## ◈ CONNECT WITH ME
 
 <p align="center">
+  <a href="mailto:kartikjadon9068@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-08080C?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
   <a href="https://github.com/kartikjadaun8055">
-    <img src="https://img.shields.io/badge/GitHub-08080C?style=for-the-badge&logo=github&logoColor=00E5FF" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://apankart-8b338.web.app/">
+    <img src="https://img.shields.io/badge/ApnaKart-Visit%20Website-00B8D4?style=for-the-badge&logo=firebase&logoColor=white" />
   </a>
 </p>
 
@@ -99,8 +130,6 @@ A full-stack e-commerce project focused on product management, authentication, a
 
 <p align="center">
   <i>“Consistency builds skill. Curiosity builds innovation.”</i>
-</p>
-
-<p align="center">
-  <sub>Designed in Black. Defined by Purple. Powered by Cyan.</sub>
+  <br/><br/>
+  <sub>DESIGNED IN BLACK · DEFINED BY PURPLE · POWERED BY CYAN</sub>
 </p>
